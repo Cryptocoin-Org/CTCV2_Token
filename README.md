@@ -6,7 +6,7 @@ People will be able to yeild farm and earn CTCV2 in Farms and Pools.
 
 Basic Information:
 
-Token Name : CryptocoinExchange
+Token Name : CTCV2
 
 Token Symbol : CTCV2
 
